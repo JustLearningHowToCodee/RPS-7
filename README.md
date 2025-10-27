@@ -2,7 +2,7 @@ RPS-7
 This is a website for a 7-way game of Rock Paper Scissors [made for homework]
 ===
 
-File Structure is as such:
+###File Structure is as such:
 
 ### RPSWebsite//
 ### |--- RPSLandingPage.html    # Main Landing Page
