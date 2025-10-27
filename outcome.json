@@ -1,0 +1,37 @@
+{
+    "Rock": [
+        { "action": "Pounds Out", "target": "Fire" },
+        { "action": "Crushes", "target": "Scissors" },
+        { "action": "Crushes", "target": "Sponge" }
+    ],
+    "Paper": [
+        { "action": "Fans", "target": "Air" },
+        { "action": "Covers", "target": "Rock" },
+        { "action": "Floats", "target": "Water" }
+    ],
+    "Scissors": [
+        { "action": "Swish Through", "target": "Air" },
+        { "action": "Cut", "target": "Paper" },
+        { "action": "Cut", "target": "Sponge" }
+    ],
+    "Water": [
+        { "action": "Erodes", "target": "Rock" },
+        { "action": "Puts Out", "target": "Fire" },
+        { "action": "Rusts", "target": "Scissors" }
+    ],
+    "Fire": [
+        { "action": "Melts", "target": "Scissors" },
+        { "action": "Burns", "target": "Paper" },
+        { "action": "Burns", "target": "Sponge" }
+    ],
+    "Air": [
+        { "action": "Blows Out", "target": "Fire" },
+        { "action": "Covers", "target": "Rock" },
+        { "action": "Evaporates", "target": "Water" }
+    ],
+    "Sponge": [
+        { "action": "Soaks", "target": "Paper" },
+        { "action": "Uses", "target": "Air" },
+        { "action": "Absorbs", "target": "Water" }
+    ]
+}
