@@ -4,11 +4,11 @@ This is a website for a 7-way game of Rock Paper Scissors [made for homework]
 
 File Structure is as such:
 
-RPSWebsite/
-|--- RPSLandingPage.html    # Main Landing Page
-|--- RPSstyle.css           # Styling for layout
-|--- RPSscript.js           # JavaScript to load and render data
-|--- outcome.json           # Game outcomes of the RPS-7 in JSON
+### RPSWebsite//
+### |--- RPSLandingPage.html    # Main Landing Page
+### |--- RPSstyle.css           # Styling for layout
+### |--- RPSscript.js           # JavaScript to load and render data
+### |--- outcome.json           # Game outcomes of the RPS-7 in JSON
 
 
 ### 'RPSLandingPage.html'
