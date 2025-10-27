@@ -10,7 +10,6 @@ RPSWebsite/
 |--- RPSscript.js           # JavaScript to load and render data
 |--- outcome.json           # Game outcomes of the RPS-7 in JSON
 
-===
 
 ### 'RPSLandingPage.html'
 - The main HTML file that loads the app
